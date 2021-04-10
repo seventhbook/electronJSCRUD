@@ -1,0 +1,27 @@
+{
+  "name": "electronjscrud",
+  "version": "1.0.0",
+  "description": "CRUD en ELectron con JS",
+  "main": "app.js",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "electron": "^12.0.2",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seventhbook/electronJSCRUD.git"
+  },
+  "author": "Seventhbook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seventhbook/electronJSCRUD/issues"
+  },
+  "homepage": "https://github.com/seventhbook/electronJSCRUD#readme"
+}

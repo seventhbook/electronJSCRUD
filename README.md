@@ -1,2 +1,2 @@
-# electronJSCRUD
-CRUD implementado con JS en Electron JS
+# CRUD Implementado en Electron 
+CRUD implementado con JS, CSS y HTML en Electron JS
